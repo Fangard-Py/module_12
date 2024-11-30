@@ -1,8 +1,5 @@
-import pprint
 import unittest
 from unittest import TestCase
-
-from mod_9.module_9_4 import result
 
 
 class Runner:
